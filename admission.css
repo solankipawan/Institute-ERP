@@ -1,0 +1,30 @@
+.admission {
+    text-align: center;
+    padding: 12px 20px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+}
+.check-box {
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+}
+table{
+    font-family: Calibri; 
+    color:black; 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align:center; 
+    background-color: green; 
+    border-collapse: collapse; 
+    border: 5px solid green
+  }
+  table.inner{
+    border: 0px
+  }
